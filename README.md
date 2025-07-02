@@ -3,3 +3,9 @@
 - 👨‍💻 Atualmente trabalhando na Amazon como Resolution Specialist CS
 - ✍ Estudo graduação em Analise e Desenvolvimento de Sistemas (ADS)
 - ✍ Estudando Algoritmos e Lógica de Programação (Udemy)
+
+<div>
+  <a href="https://github.com/FabinhoOM">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabinhoOM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabinhoOM&layout=compact&langs_count=16&theme=dark"/>
+</div>
